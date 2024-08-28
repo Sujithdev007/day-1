@@ -1,0 +1,8 @@
+1) look dont always keep height and width as fixed one like 230px like 
+instead use "%"
+always child will look on parents 
+based on it it will work
+
+2) dont give a height to a element
+because it wont work for mobile devices and responsiveness wont work here
+instead of height give padding
