@@ -1,29 +1,15 @@
-*{box-sizing: border-box;}
-
-body{
+body {
     margin: 0;
 }
 
 .parent{
-    background-color: #23424A;
+    background-color: aquamarine;
     padding: 50px;
     margin: 0 auto;
-    width: 80%;
-
 }
 
 .child{
-    background-color: blue;
-    /* width: 50%; */
     height: 250px;
-}
-
-.container{
-    color: white;
-    background-color: #23424A;
-    width: 80%;
-    margin: 0 auto;
-    /* height: 300px; */
-    /* /dont use height always this might cause the problem */
-    padding: 5rem;
+    background-color: blue;
+    width: 50%;
 }
